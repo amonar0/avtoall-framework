@@ -2,7 +2,8 @@
 Каркас, созданный для решения проблем деградации кода проекта на моей прошлой работе. Не был применен. Попытка добиться низкого зацепления и соблюдения SOLID.
 
 
-Вот часть каркаса на уровне соглашений и философии, а не кода: https://docs.google.com/document/d/1Tc1BZ2ku3oxKspuPloulO0NEEZo-4w1VHAYz5pvQEpI/edit
+Вот часть каркаса на уровне соглашений и философии, а не кода: https://docs.google.com/document/d/1Tc1BZ2ku3oxKspuPloulO0NEEZo-4w1VHAYz5pvQEpI/edit 
+
 Или кратко она же - ниже.
 
 
